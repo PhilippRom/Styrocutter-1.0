@@ -2,7 +2,7 @@
 Der Styrocutter für die Schule wurde im Rahmen einer Bachelorarbeit entworfen.
 Er basiert auf einem einfachen Widerstandsdraht, welcher durch Erhitzung diverses Material schmelzen kann.
 
-Der Styrocutter hat das Ziel, die goldene Mitte zwischen billigen Plastik-Produkten (die es auf Thingiverse in Massen gibt) und teuren Aluminiumgeräten zu sein.
+Der Styrocutter hat das Ziel, die goldene Mitte zwischen billigen Plastik-Geräten (die es auf Thingiverse in vielen Variationen gibt) und teuren Aluminiumgeräten zu sein.
 Durch die Kombination aus 3D gedruckten Teilen, sowie soliden Materialien, die in Baumärkten leicht erhältlich sind erreicht er eine gute Stabilität bei gleichzeitig niedrigem Preis.
 
 Mittels des kugelgelagerten Queranschlags und der passgenauen Spannmanschette sind Schneiddicke, sowie Winkel und Spannung des Drahts schnell eingestellbar.
