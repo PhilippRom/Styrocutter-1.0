@@ -8,6 +8,7 @@ Durch die Kombination aus 3D gedruckten Teilen, sowie soliden Materialien, die i
 Mittels des kugelgelagerten Queranschlags und der passgenauen Spannmanschette sind Schneiddicke, sowie Winkel und Spannung des Drahts schnell eingestellt.
 Die Drahtretention im Tisch ist so ausgeführt, dass der Draht ohne das Gerät umdrehen zu müssen gewechselt werden kann.
 Genauso wurde die Retention des Arms so konstruiert, dass das Gerät schnell, platzsparend in Fächern oder Regalen verstaut werden kann.
+Ein zusätzlich ausdruckbares Add-On ermöglicht sogar Kreisschnitte.
 
 Die Stromversorgung wird mittels Bananenstecker eines Labornetzteils gewährleistet.
 Durch das modulare System und die robusten Teile ist das Gerät gut skalierbar, sodass der Schneidtisch größer oder kleiner ausgeführt werden kann.
