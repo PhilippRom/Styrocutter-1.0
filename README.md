@@ -13,7 +13,9 @@ Ein zusätzlich ausdruckbares Add-On ermöglicht sogar Kreisschnitte.
 Die Stromversorgung wird mittels Bananenstecker eines Labornetzteils gewährleistet.
 Durch das modulare System und die robusten Teile ist das Gerät gut skalierbar, sodass der Schneidtisch größer oder kleiner ausgeführt werden kann.
 
+
 Die gesammelten Dateien, Schaltpläne und Materiallisten können hier frei abgerufen werden! https://github.com/PhilippRom/Styrocutter-1.0
+
 Der Styrocutter kann auch online angeschaut werden! https://a360.co/2YiIsqU
 
 ![Screenshot 2021-10-03 214229](https://user-images.githubusercontent.com/91803747/135769497-ad6ec2d9-8d17-4022-996c-894fd85b8b05.jpg)
