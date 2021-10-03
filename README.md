@@ -12,4 +12,4 @@ Genauso wurde die Retention des Arms so konstruiert, dass das Gerät schnell, pl
 Die Stromversorgung wird mittels Bananenstecker eines Labornetzteils gewährleistet.
 Durch das modulare System und die robusten Teile ist das Gerät gut skalierbar, sodass der Schneidtisch größer oder kleiner ausgeführt werden kann.
 
-![Screenshot 2021-08-24 115606](https://user-images.githubusercontent.com/91803747/135731365-75c19f93-38a8-4684-b691-ae6ec351b944.jpg)
+![Screenshot 2021-10-03 214229](https://user-images.githubusercontent.com/91803747/135769497-ad6ec2d9-8d17-4022-996c-894fd85b8b05.jpg)
