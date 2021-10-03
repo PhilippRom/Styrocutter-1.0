@@ -11,6 +11,7 @@ Genauso wurde die Retention des Arms so konstruiert, dass das Gerät schnell, pl
 Ein zusätzlich ausdruckbares Add-On ermöglicht sogar Kreisschnitte.
 
 Die Stromversorgung wird mittels Bananenstecker eines Labornetzteils gewährleistet. (gewöhnlich werden 5V und ca. 2A benötigt)
+
 Durch das modulare System und die robusten Teile ist das Gerät gut skalierbar, sodass der Schneidtisch größer oder kleiner ausgeführt werden kann.
 
 Der Styrocutter kann auch online angeschaut werden! https://a360.co/2YiIsqU
