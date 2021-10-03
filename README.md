@@ -10,7 +10,7 @@ Die Drahtretention im Tisch ist so ausgeführt, dass der Draht ohne das Gerät u
 Genauso wurde die Retention des Arms so konstruiert, dass das Gerät schnell, platzsparend in Fächern oder Regalen verstaut werden kann.
 Ein zusätzlich ausdruckbares Add-On ermöglicht sogar Kreisschnitte.
 
-Die Stromversorgung wird mittels Bananenstecker eines Labornetzteils gewährleistet.Gewöhnlich wird eine Spannung von 5V mit einer Stromstärke von 2A benötigt.
+Die Stromversorgung wird mittels Bananenstecker eines Labornetzteils gewährleistet. Gewöhnlich wird eine Spannung von 5V und eine Stromstärke von ca. 2A benötigt.
 Durch das modulare System und die robusten Teile ist das Gerät gut skalierbar, sodass der Schneidtisch größer oder kleiner ausgeführt werden kann.
 
 Der Styrocutter kann auch online angeschaut werden! https://a360.co/2YiIsqU
